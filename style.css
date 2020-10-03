@@ -1,0 +1,30 @@
+p{ 
+    color : green
+} 
+
+h1{
+    color: purple
+}
+
+.menu a{
+    justify-content: space-evenly;
+}
+.header{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+* {
+    border: solid;
+}
+
+p,h2{
+    text-align: center;
+}
